@@ -24,7 +24,7 @@ processor:
   feedbackprocess: | 
     var pos = feedbackString.trim();
   correctcheck: |
-    pos.includes("1.500_1.833_2.083_2.283_2.450_2.593_2.718_2.829_2.929_")
+    pos.includes("1.000_1.500_1.833_2.083_2.283_2.450_2.593_2.718_2.829_")
   incorrectchecks:
     - incorrectcheck: |
         pos.includes("0.000_0.000_0.000_0.000_0.000_0.000_0.000_0.000_0.000_")
@@ -41,6 +41,11 @@ files:
         def get_harmonic_series(N):
           """
           Compute the harmonic series sum 1 + 1/2 + ... + 1/N
+
+          If N = 1, the result should be 1
+          If N = 2, the result should be 1 + 1/2
+          If N = 3, the result should be 1 + 1/3 + 1/3
+          etc
 
           Parameters
           ----------
