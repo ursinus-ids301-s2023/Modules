@@ -1,0 +1,33 @@
+If statements: part 1
+
+* Go through if statement with even/odd
+* Go through example of in the right class
+* Show elevator example
+
+Exercise: 
+
+
+-----------------
+Talk about and and or
+
+Show temperature example
+
+Exercise: Solid or liquid
+
+
+
+--------------------
+Talk about loops:
+* Show basic for loop
+* Arithmetic series example
+* Show square wave example
+
+Exercise: Harmonic series sum
+
+
+
+
+---------------------
+Loop and arrays:
+* Show how to sum up all elements
+* Show how to do an average

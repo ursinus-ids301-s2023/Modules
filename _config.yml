@@ -1,0 +1,21 @@
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+theme: jekyll-theme-slate
+
+title: "IDS301"
+description: "Problem Solving with Python"
+
+url                      : https://ursinus-ids301-s2023.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/Modules" # the subpath of your site, e.g. "/blog"
+    
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+
