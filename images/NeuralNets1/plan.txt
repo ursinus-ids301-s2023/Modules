@@ -1,0 +1,54 @@
+* Logistic regression
+- Video on data driven and supervised learning, 1D data classification with grid search
+Exercise: code to do grid search
+
+- Video on logit (show 1d first, then 2d), linear separability
+Exercise: which data are linearly separable?
+
+- Before class: Demonstrate that we can plot a square wave in colab
+
+----------------
+
+- Video on logistic loss, showing some 1D examples with gradient descent, talk about learning rate
+Exercise: What is a likely path for gradient descent?
+
+
+- Video on torch data loaders, learning process
+Exercise: Create a class that indexes the perfect squares
+
+- Video on creating triangle vs square dataset 
+Exercise: Plot a square wave in colab
+
+
+
+
+Skipped [Do in AI]
+- Video on math behind gradient descent
+Exercise: Update rules code
+
+
+----------------
+Next module:
+
+
+
+
+
+
+- Video on stochastic gradient descent
+
+
+
+In class: test traingle vs square model on happy birthday with a sliding window
+
+
+
+
+
+
+
+
+
+
+* Neural nets
+- link to tensorflow playground
